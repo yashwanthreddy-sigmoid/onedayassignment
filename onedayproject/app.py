@@ -1,3 +1,9 @@
+# feedback
+# queries were written efficiently
+# for query6 you use inner join to combine mean and median result so that output more prettier
+
+
+
 from flask import Flask,jsonify,json
 from pyspark.sql import SparkSession
 
